@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing;
 
+//hello! 
+
 namespace Pong
 {
     public class Ball
